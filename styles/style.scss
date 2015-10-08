@@ -1,0 +1,22 @@
+/*
+Theme Name: GNAAS
+Author: Appiah-Brobbey Benjamin
+Author URI: http://dayapp.com
+Description: 2015 GNAAS THEME
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: angularjs, json-rest api
+Text Domain: gnaas
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+// ================================================================================
+//Global Imports
+// ================================================================================
+@import 'include-media';
+@import 'base/index';
+@import 'layout/index';
+@import 'components/index';
+@import 'pages/index';
